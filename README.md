@@ -1,6 +1,6 @@
-### Hi there 👋  Vem conferir meus repositórios!
+### Olá 👋 Vem conferir meus repositórios!
  
- I'm Laura!
+ Eu sou a Laura!
  
  - Front-End Developer :computer:
  - Graduada em Análise e Desenvolvimento de Sistemas :woman_student:
