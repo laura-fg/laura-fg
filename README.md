@@ -3,9 +3,13 @@
  Eu sou a Laura uma desenvolvedora em construção!
  
  - Front-End Developer :computer:
+
  - Graduada em Análise e Desenvolvimento de Sistemas :woman_student:
+
  - Foco em Js e frameworks :heartpulse:
- - Estudandando UI/UX Design
+
+ - Estudando UI/UX Design
+ 
  - Arriscando-me no Back-end com Java SpringBoot
 
   
